@@ -1,0 +1,25 @@
+p {
+    font: 20px sans-serif;
+    color:rgb(158, 72, 72);
+}
+
+h1 {
+    font-size: 50px;
+    color: green;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 40px;
+    color: indigo;
+}
+
+h3 {
+    font-size: 30px;
+    color: rgb(130, 0, 7);
+}
+
+ul>li {
+    font: 20px sans-serif;
+    color:rgb(158, 72, 72);
+}
